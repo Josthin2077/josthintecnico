@@ -1,0 +1,17 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    overflow-x:hidden ;
+}
+
+.nav{
+    background-color: rgb(255, 255, 255);
+   
+}
+
+.html{
+    zoom:1 ;
+}
+
+.video{
+    margin-top:60px;
+}
